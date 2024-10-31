@@ -10,9 +10,11 @@ This app has the following features:
 ✔️ ability to copy passwords to the clipboard.
 </pre>
 <p >
-  <pre><img src="https://github.com/user-attachments/assets/0e7e5502-1a1b-49ac-9396-30825c5627df" height="400" width="1108" alt="Password Generator"/> </pre>
+  <pre><img width="870" alt="Screenshot 2024-10-31 at 6 40 30 AM" src="https://github.com/user-attachments/assets/0cc37c9d-26dc-465c-993f-d678b6ca5855"></pre>
 </p>
+
  
+
 ***
 
 # Technologies and Libraries Used
