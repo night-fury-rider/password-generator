@@ -10,26 +10,28 @@ This app has the following features:
 ✔️ ability to copy passwords to the clipboard.
 </pre>
 <p >
-  <pre><img width="870" alt="Screenshot 2024-10-31 at 6 40 30 AM" src="https://github.com/user-attachments/assets/0cc37c9d-26dc-465c-993f-d678b6ca5855"></pre>
+  <pre><img width="870" alt="Password Generator" src="https://github.com/user-attachments/assets/9b524df7-82aa-4acc-8c17-5e3236686ae6"></pre>
 </p>
-
  
-
 ***
 
 # Technologies and Libraries Used
-- [React 18.3.1](https://reactjs.org/)
-- [emotion 11.13.3](https://emotion.sh/docs/introduction)
+
+| Library                                                     | Version |
+| ----------------------------------------------------------- | ------- |
+| [React](https://reactjs.org/)                               | v19     |
+| [Material UI](https://mui.com/material-ui/getting-started/) | v7      |
+| [Vite](https://vite.dev)                                    | v7      |
 
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm run dev`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
 
 The page will reload if you make edits. 
 
