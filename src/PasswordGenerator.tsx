@@ -196,8 +196,13 @@ const PasswordGenerator = () => {
               >
                 {STRINGS.appTitle}
               </Typography>
+
               <Typography
-                sx={{ color: COLORS.textSecondary, fontSize: "0.7rem" }}
+                sx={{
+                  color: COLORS.textSecondary,
+                  display: { xs: "none", sm: "block" },
+                  fontSize: "0.7rem",
+                }}
                 variant="caption"
               >
                 {STRINGS.appSubtitle}
@@ -434,7 +439,7 @@ const PasswordGenerator = () => {
           <Typography
             sx={{
               color: COLORS.textMuted,
-              display: "block",
+              display: { xs: "none", sm: "block" },
               fontSize: "0.65rem",
               mt: 2.5,
               opacity: 0.7,
