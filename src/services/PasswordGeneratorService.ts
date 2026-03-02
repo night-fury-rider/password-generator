@@ -19,7 +19,7 @@ const CHARSET_DIGITS = "23456789";
 const CHARSET_LOWER = "abcdefghijkmnprstuvwxyz";
 const CHARSET_UPPER = "ABCDEFGHJKLMNPQRSTUVWXYZ";
 
-const _buildBaseCharset = (includeNumber: boolean) => {
+const _buildBaseCharset = (includeNumber = false) => {
   const full =
     (includeNumber ? CHARSET_DIGITS : "") + CHARSET_LOWER + CHARSET_UPPER;
   return full
