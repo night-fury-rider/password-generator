@@ -9,7 +9,7 @@ const STRINGS = {
   copyTooltipCopied: "Copied!",
   copyTooltipDefault: "Copy to clipboard",
   excludedNote: "Excluded ambiguous characters",
-  generateButton: "Generate New Password",
+  generateButton: "Generate New",
   labelPasswordLength: "Password Length",
   labelRequiredCharacters: "Required Characters",
   strengthFair: "Fair",
