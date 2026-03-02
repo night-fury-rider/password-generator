@@ -1,0 +1,25 @@
+const COLORS = {
+  accent: "#00ffc8",
+  accentDim: "rgba(0, 255, 200, 0.12)",
+  accentGlow: "rgba(0, 255, 200, 0.35)",
+  accentSecondary: "#ff6b35",
+  backgroundCard: "rgba(13, 18, 30, 0.97)",
+  backgroundPage: "#080c14",
+  borderActive: "rgba(0, 255, 200, 0.5)",
+  borderDefault: "rgba(0, 255, 200, 0.2)",
+  checkboxAt: "#c084fc",
+  checkboxDollar: "#4ade80",
+  checkboxHash: "#fb923c",
+  checkboxNumber: "#38bdf8",
+  passwordText: "#00ffc8",
+  strengthFair: "#facc15",
+  strengthStrong: "#4ade80",
+  strengthVeryStrong: "#00ffc8",
+  strengthWeak: "#f87171",
+  textMuted: "#94a3b8",
+  textPrimary: "#e2e8f0",
+  textSecondary: "#94a3b8",
+  topBarGradient: "linear-gradient(90deg, transparent, #00ffc8, transparent)",
+};
+
+export { COLORS };
